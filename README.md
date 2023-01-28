@@ -55,7 +55,7 @@ plt.show()
 ```
 
 ## Output
-(./![WhatsApp Image 2023-01-26 at 09 42 54](https://user-images.githubusercontent.com/118834761/214759252-106f26c2-7e29-4e81-9e5f-b308db76bfd8.jpeg)
+(./![WhatsApp Image 2023-01-26 at 09 42 54])
 )
 
 ## Result

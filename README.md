@@ -55,6 +55,7 @@ plt.show()
 ```
 
 ## Output
+##[](input.jpg.png)
 
 
 ## Result

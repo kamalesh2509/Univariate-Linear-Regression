@@ -55,8 +55,7 @@ plt.show()
 ```
 
 ## Output
-(./![WhatsApp Image 2023-01-26 at 09 42 54])
-)
+
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
